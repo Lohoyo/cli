@@ -1,0 +1,20 @@
+{
+	"name": "@liuhuyue/cli",
+	"version": "1.0.0-alpha.1",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bin": {
+		"lhy": "index.js"
+	},
+	"dependencies": {
+		"prompts": "^2.4.1",
+		"vinyl-fs": "^3.0.3",
+		"yargs": "^17.1.1"
+	}
+}
