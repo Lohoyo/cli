@@ -1,7 +1,7 @@
 {
 	"name": "@liuhuyue/cli",
-	"version": "1.0.0-alpha.3",
-	"description": "A very simple but basic node.js CLI for creating a front-end project.",
+	"version": "1.0.0",
+	"description": "A very simple but basic node.js CLI for creating a front-end project",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
@@ -10,14 +10,13 @@
 	"author": "",
 	"license": "ISC",
 	"bin": {
-		"lhy": "index.js"
+		"cli": "index.js"
 	},
 	"dependencies": {
 		"prompts": "^2.4.1",
-		"vinyl-fs": "^3.0.3",
 		"yargs": "^17.1.1"
 	},
-    "repository": {
-        "url": "https://github.com/Lohoyo/cli"
-    }
+	"repository": {
+		"url": "https://github.com/Lohoyo/cli"
+	}
 }

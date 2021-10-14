@@ -1,8 +1,8 @@
-A very simple but basic node.js CLI for creating a front-end project.
+This is a very simple but basic node.js CLI for creating a front-end project.
 
 ## Install
 
-```bash
+```shell
 npm i @liuhuyue/cli -g
 ```
 
@@ -10,6 +10,6 @@ npm i @liuhuyue/cli -g
 
 Create a new project:
 
-``` bash
-lhy init my-project
+```shell
+cli init my-project
 ```
