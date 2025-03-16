@@ -1,4 +1,4 @@
-This is a basic node.js CLI for creating a front-end project!
+This is a basic node.js CLI for creating a front-end project.
 
 ## Install
 
